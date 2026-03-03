@@ -23,3 +23,4 @@ int main() {
     cout << "Расстояние между точками: " << p1.distanceTo(p2) << endl;
     return 0;
 }
+
